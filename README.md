@@ -14,7 +14,7 @@ After some discussion among my friends about the different Religious Orders in t
 
 The following graph is a visual represenation of the Religious Orders of the Popes of the Catholic Church. The starting nodes on the left side are the names and dates of the Popes. From there, the nodes went either to the name of a family, or "None". From there, family nodes which have no sub-orders will end there, and families which have sub-orders will break apart into those orders.
 
-![alt text](https://github.com/JayTongue/popes_by_order/blob/main/data/popes.png)
+![alt text](https://github.com/JayTongue/popes_by_order/blob/main/data/popes_sankey.png)
 
 ---------------------------------
 ## Why Are So Many Popes "None"?
